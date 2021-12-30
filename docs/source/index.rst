@@ -7,7 +7,7 @@ Welcome to Eleh Documentation!
 
    Banyak fitur di Read the Docs, setiap fitur ya harus dipelajari, tapi bayanganku kalau simple documentation kukira cukup teks penjelasan biasa, teks kode, gambar, sama susunan heading sub-headingnya. Ya kan?
 
-Konten
+Contents
 --------
 
 .. toctree::
