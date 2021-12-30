@@ -5,7 +5,7 @@ Welcome to Eleh documentation!
 
 .. note::
 
-   This project is under active development.
+   Banyak fitur di Read the Docs, setiap fitur ya harus dipelajari, tapi bayanganku kalau documentation simple kukira cukup teks penjelasan biasa, teks kode, gambar, sama susunan heading sub-headingnya.
 
 Contents
 --------
