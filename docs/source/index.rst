@@ -5,3 +5,8 @@ Welcome to Lumache's documentation!
 
 Contents
 --------
+
+.. toctree::
+
+   usage
+   api
