@@ -38,9 +38,9 @@ Contoh kode json di Read the Docs
 
 .. code-block:: JSON
 
-{
-  "key": "value"
-}
+   {
+     "key": "value"
+   }
 
 Java
 ------------
