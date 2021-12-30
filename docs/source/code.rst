@@ -31,7 +31,7 @@ Contoh kode python di Read the Docs
    import tensorflow as tf
    import numpy as np
    
- JSON
+JSON
 ------------
 
 Contoh kode json di Read the Docs
@@ -51,7 +51,7 @@ Contoh kode java di Read the Docs
 
    System.out.println("Hello Jussssss");
    
- XML
+XML
 ------------
 
 Contoh kode xml di Read the Docs
