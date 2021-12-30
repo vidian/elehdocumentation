@@ -12,8 +12,6 @@ Contents
 
 .. toctree::
 
-   usage
-   api
    hobby
    code
    image
