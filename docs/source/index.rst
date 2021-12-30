@@ -1,7 +1,7 @@
 Welcome to Eleh documentation!
 ===================================
 
-**Eleh** is a funny word spoken by Weird High-Intelligent Bibliophile Girl in this earth. *but i like..
+**Eleh** is a funny word spoken by a Weird High-Intelligent Bibliophile Girl in this earth. *but i like h..
 
 .. note::
 
