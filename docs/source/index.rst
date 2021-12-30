@@ -1,4 +1,4 @@
-Welcome to Lumache's documentation!
+Welcome to Eleh documentation!
 ===================================
 
 **Eleh** is a funny word spoken by Weird High-Intelligent Bibliophile Girl in this earth. *but i like her..
@@ -11,6 +11,3 @@ Contents
 --------
 
 .. toctree::
-
-   usage
-   api
