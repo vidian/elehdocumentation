@@ -11,3 +11,6 @@ Contents
 --------
 
 .. toctree::
+
+   usage
+   api
