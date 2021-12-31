@@ -15,4 +15,4 @@ I dunno why but she tell me she wanna be a cat. A lazy cat i think.
 
 DND
 ------------
-She like igoring people mostly of the time, including me. Sometimes i getting mad but, yeah whatever..
+She like igoring people mostly of the time, including me. But actually she is kind.
